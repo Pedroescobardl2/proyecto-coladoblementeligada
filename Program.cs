@@ -1,5 +1,5 @@
 ﻿using System;
-
+// prueba github
 public class Nodo
 {
     public int dato;
